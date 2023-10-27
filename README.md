@@ -1,2 +1,2 @@
-# site_1
-lab-1-sh.ivan
+# FinCons Site
+https://laimonsan.github.io/lab1/
